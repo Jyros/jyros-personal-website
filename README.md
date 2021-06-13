@@ -11,7 +11,7 @@ Ve daha fazla kod bilgisi olanlar için geliştirilmeye hazır bir projedir.
 * Kendinize Özel "Hakkımda" kısmı ile yazılım geliştirme becerilerinizi sergileyin!
 * Arkadaşlarınızın ve Ziyaretçileriniz için bir İletişim alanı!
 
-## s-Setup
+## Setup
 
 Kendinize göre düzenleyeceğiniz dosyalar:
 
