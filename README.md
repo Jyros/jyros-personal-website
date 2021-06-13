@@ -2,7 +2,7 @@
 
 ## Explanation
 
-Selam! Sizin için basit bir Kişisel Web Sitesi tasarladım. Kullanmadan önce Setup kısmını okuyunuz.
+Selam! Sizin için basit bir Kişisel Web Sitesi tasarladım. Kullanmadan önce [Setup](https://github.com/Jyros/jyros-personal-website/blob/main/README.md#setup) kısmını okuyunuz.
 Kişisel web siteniz kişiselleştirilmeyi bekliyor. Bu Proje; bir yazılım geliştiricisi olarak çalışmalarınızı sergileyen kişisel bir web sitesini başlatmak için ihtiyaç duyacağınız kodu verir. Diller veya endüstriler gibi yazılım geliştirmeyle ilgili özel ilgi alanlarınızı vurgulamak için alanlar içerir. 
 Ve daha fazla kod bilgisi olanlar için geliştirilmeye hazır bir projedir.
 
