@@ -1,2 +1,3 @@
-# jyros-personal-website
-Basit bir kişisel Website şablonu
+# Basit Kişisel Site
+
+açıklama geliyo bekle aq
